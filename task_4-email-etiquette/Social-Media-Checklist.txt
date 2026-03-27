@@ -1,0 +1,13 @@
+DO’S (BEST PRACTICES)
+Audit your privacy settings periodically to control who can see your personal photos and posts.
+Use LinkedIn to network with seniors, professors, and industry professionals in the CSE field.Fact-check
+Fact-check before sharing news or links to prevent the spread of misinformation (especially AI-generated content).
+Highlight your projects and technical skills (like your C++ or Python work) to build a personal brand.
+Give credit to others when sharing their work, code snippets, or digital art.
+
+DON'TS (MISTAKES TO AVOID)
+Don't engage in "Cyber-arguments" or flame wars; they leave a permanent, searchable trail of negativity.
+Don't post confidential info, such as your student ID, registration number, or home address.
+Don't vent about professors or your university publicly; recruiters often view this as a lack of professional maturity.
+Don't post while highly emotional; once a "delete" button is pressed, the screenshot may already exist.
+Don't tag friends in sensitive photos without their explicit permission.
