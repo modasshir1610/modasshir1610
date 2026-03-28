@@ -16,18 +16,12 @@ This project is organized into the following task-specific directories as per th
 
 | Folder | Contents |
 | :--- | :--- |
-| `task-1-presentation/` | 
-Digital Literacy Awareness Infographic (Canva) |
-| `task-2-portfolio/` | 
-Screenshots of GitHub, LinkedIn, and Kaggle profiles  |
-| `task-3-platforms/` | 
-HackerRank activity proof and Digital Literacy Quiz screenshots |
-| `task-4-email-etiquette/` | 
-Formal email drafts and Social Media Checklist |
-| `task-5-cybercrime/` | 
-Cyberbullying Case Study and Prevention Guide |
-| `report/` | 
-Final Project Report in PDF/DOCX format  |
+| `task-1-presentation/` | Digital Literacy Awareness Infographic (Canva) |
+| `task-2-portfolio/` | Screenshots of GitHub, LinkedIn, and Kaggle profiles  |
+| `task-3-platforms/` | HackerRank activity proof and Digital Literacy Quiz screenshots |
+| `task-4-email-etiquette/` | Formal email drafts and Social Media Checklist |
+| `task-5-cybercrime/` | Cyberbullying Case Study and Prevention Guide |
+| `report/` | Final Project Report in PDF/DOCX format  |
 
 ## 🛠️ Module Highlights
 
