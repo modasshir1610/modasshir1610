@@ -1,0 +1,35 @@
+THE DIGITAL AMBASSADOR’S DEFENSE STRATEGY: STAYING SAFE ONLINE
+Digital literacy is your strongest shield against modern cyber threats. Implement these 8 critical practices to protect your academic and financial identity:
+
+CORE FINANCIAL & UPI SECURITY
+
+1. The "PIN = Debit" Principle: Always remember that a UPI PIN is exclusively for authorizing a deduction from your account. If a "buyer" or "support agent" asks you to enter a PIN to receive a payment or prize, immediately terminate the interaction; it is a fraudulent request. 
+
+2. Mandatory Identity Verification: Before confirming any transfer on GPay, PhonePe, or Paytm, verify the "Legal Name" registered to the UPI ID. Scammers frequently use deceptive displayvb names like "Bank Verification" or "Rewards Portal" to mask their personal accounts. 
+
+PRIVACY & CREDENTIAL PROTECTION
+
+1. App-Specific Security Layers: Enable biometric locks (fingerprint or face ID) specifically for your financial and communication apps. This ensures that even if your device is compromised while unlocked, your sensitive data remains inaccessible. 
+
+2. Prioritize Authenticator Apps: Move away from SMS-based Two-Factor Authentication (2FA) which is vulnerable to SIM-swap fraud. Instead, use time-based one-time password (TOTP) apps like Google or Microsoft Authenticator for higher security. 
+
+3. Session Management Review: Periodically audit the "Active Sessions" or "Linked Devices" in your Google and WhatsApp settings. Force-logout any unrecognized browsers or locations to prevent silent data monitoring. 
+
+SAFE BROWSING & SOCIAL CONDUCT
+
+1. Network Vigilance: Refrain from accessing student portals or banking sites on open Wi-Fi networks in cafes or public areas. If an urgent task arises, utilize a personal mobile hotspot or a verified VPN to encrypt your data traffic. 
+
+2. The "Urgency" Filter: Treat every "urgent" request for money or sensitive links as a red flag, even if it appears to be from a trusted contact. Verify the request through a secondary channel, like a direct voice call, before taking action. 
+
+3. Link Inspection: Hover your cursor over links to inspect the destination URL before clicking. Watch for "typosquatting"—subtle spelling errors (e.g., vltbhopal instead of vitbhopal) designed to lead you to a phishing site. 
+
+
+HOW TO REPORT AN INCIDENT 
+
+1. National Cyber Crime Helpline: Immediately dial 1930 to report financial theft. Acting fast increases the likelihood of banks "freezing" the stolen amount before it is withdrawn. 
+
+
+2. Official Reporting Portal: Document the incident and file a formal report at cybercrime.gov.in. 
+
+
+3. Local Authorities: Keep a record of the transaction and report the case to the nearest Police Cyber Cell.
