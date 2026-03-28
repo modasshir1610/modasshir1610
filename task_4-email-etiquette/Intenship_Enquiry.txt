@@ -1,16 +1,23 @@
-Subject: Inquiry: Summer Internship Opportunities in AI – Shaikh Modasshir 
+Subject: Inquiry: Summer Internship Opportunities (Hardware/Architecture) – Shaikh Modasshir Rabbani
 
-Dear Internship Coordinator, 
+Dear Internship Coordinator,
 
-I am a first-year student at VIT Bhopal University pursuing an Integrated M.Tech in Artificial Intelligence. I am writing to formally express my interest in potential summer internship opportunities within the research and development department at your organization. 
+I am a first-year Integrated M.Tech Artificial Intelligence student at VIT Bhopal University. I am writing to formally express my interest in potential summer internship opportunities at NVIDIA, specifically within teams focused on CPU design or chipset architecture.
 
-As a Student Digital Ambassador, I have developed a strong foundation in digital collaboration and technical documentation. I am eager to apply my academic knowledge in AI to real-world projects and contribute effectively to your team’s objectives. 
+My motivation for pursuing a degree in CSE is deeply rooted in NVIDIA’s advancements in GPU-accelerated computing. Currently, I am building a technical foundation in Python and C++ and serving as a Student Digital Ambassador, where I manage professional digital assets and collaboration tools. I am eager to apply my technical curiosity to a professional environment where hardware and software converge.
 
-My professional digital portfolio and resume are attached for your review. I would appreciate the opportunity to discuss how my background aligns with your current internship requirements. 
+I have attached my resume for your formal review. My professional digital portfolio, including my GitHub and LinkedIn profiles, is linked below for your reference:
 
-Best regards, 
+LinkedIn Profile:www.linkedin.com/in/modasshir-shaikh-76350537a
+GitHub Portfolio: https://github.com/modasshir1610
 
-Shaikh Modasshir
-Registration Number: 25MIM10082
-Mobile No: 9824460670
-Githublink:https://github.com/modasshir1610
+Thank you for your time and for considering my application. I look forward to the possibility of discussing how my dedication might contribute to NVIDIA’s innovative culture.
+
+Best regards,
+
+Shaikh Modasshir Rabbani
+Registration Number: 25MIM100082
+Integrated M.Tech Artificial Intelligence, Year 1
+VIT Bhopal University
+Mobile: +91 982446670
+Email: shaikh.25MIM10082@vitbhopal.ac.in
