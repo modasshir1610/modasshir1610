@@ -12,7 +12,7 @@ As a **Student Digital Ambassador**, I have curated resources and established a 
 
 ## 📂 Repository Structure
 
-This project is organized into the following task-specific directories as per the assignment brief[cite: 14]:
+This project is organized into the following task-specific directories as per the assignment brief:
 
 | Folder | Contents |
 | :--- | :--- |
@@ -25,25 +25,25 @@ This project is organized into the following task-specific directories as per th
 
 ## 🛠️ Module Highlights
 
-### **Module 1: Visual Communication**
+### **Module 1: Visual Communication***(./task-1-presentation)
 
 I utilized **Canva** to design a "Digital Literacy Awareness" infographic focusing on four pillars: information evaluation, content creation, technology understanding, and ethical conduct.
 
-### **Module 2: Professional Branding**
+### **Module 2: Professional Branding**(./task-2-potfolio)
 
 I established a professional presence on **GitHub**, **LinkedIn**, and **Kaggle** to serve as a living archive of my academic growth. 
 
-### **Module 3: Collaboration & Coding**
+### **Module 3: Collaboration & Coding**(./task-3-platform)
 
 I practiced Python on **HackerRank** and developed a 5-question **Google Form** quiz to test peer awareness of digital threats.
 * 
-**Quiz Link:** [Insert your Google Form link here]
+**Quiz Link:** https://forms.gle/V8i8nQ8giaAstPj48
 
-### **Module 4: Professional Etiquette**
+### **Module 4: Professional Etiquette**(./task-4-email-etiquetee)
 
 This module involved drafting formal correspondence for an assignment extension and an internship inquiry for **NVIDIA**, emphasizing professional tone and structure.
 
-### **Module 5: Cybercrime Awareness**
+### **Module 5: Cybercrime Awareness**(./task-5-cybercrime)
 
 I conducted research into **Cyberbullying**, discovering that social engineering and psychological manipulation are primary drivers of modern cybercrime.
 
