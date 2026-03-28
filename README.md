@@ -25,7 +25,7 @@ This project is organized into the following task-specific directories as per th
 
 ## 🛠️ Module Highlights
 
-### [Module 1: Visual Communication***](./task-1-presentation/)
+### [Module 1: Visual Communication](./task-1-presentation/)
 
 I utilized **Canva** to design a "Digital Literacy Awareness" infographic focusing on four pillars: information evaluation, content creation, technology understanding, and ethical conduct.
 
